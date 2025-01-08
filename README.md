@@ -1,9 +1,22 @@
-# Weather App - README
+# Weather App 
 
 ## **Overview**
 The Weather App is a user-friendly application designed to provide real-time weather information for any location worldwide. Built with simplicity and functionality in mind, it allows users to quickly check current weather conditions, forecasts, and other relevant details.
 
 ---
+
+### **Live Demo**
+
+- **Access the Demo**:  
+  Visit [Weather App ](https://weatherapp-jdiv.onrender.com/) .  
+
+- **Key Features**:  
+  - Search for weather by city.  
+  - Dynamic backgrounds based on weather conditions.    
+  - View detailed weather info (temperature, humidity, wind, etc.).  
+
+- **Compatibility**:  
+  Works on desktop and mobile devices.  
 
 ## **Features**
 - **Real-Time Weather Data**: Get up-to-date weather information for any city or location.
